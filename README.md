@@ -42,26 +42,12 @@ To run the program once it is built, say
 
 where `input.txt` is the input file to be processed.
 
-## Build and Run
-
-(*These instructions are for an interpreted language like
-Python. For a compiled language like C++, delete these
-instructions and use those above. Note that your script
-should be marked executable and set up to run on a Linux box
-using a standard interpreter: for example, in Python the
-first line should be something like `#!/usr/bin/python3`.*)
-
-To run the program, say
-
-    ./domletters <input.txt
-
-where `input.txt` is the input file to be processed.
-
 ## Example
 
 When run using the file `sentence.txt` in this distribution,
 the program will produce a dominant letter count of 20. When
-run on `swift.txt` it will produce 71.
+run on `swift.txt` it will produce 71. When run using the file
+`test.txt` it will produce 15.
 
 ## Acknowledgements
 
